@@ -1,0 +1,206 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Indonesia</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Transportasi</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Warna</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Angka</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Hewan</string>
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="color_red">red</string>
+
+    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <string name="color_dusty_yellow">dusty yellow</string>
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <string name="color_mustard_yellow">yellow</string>
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="color_green">green</string>
+
+    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <string name="color_brown">brown</string>
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="color_black">black</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="color_gray">gray</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_white">white</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="number_one">one</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="number_two">two</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="number_three">three</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="number_four">four</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="number_five">five</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="number_six">six</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="number_seven">seven</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="number_eight">eight</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="number_nine">nine</string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="number_ten">ten</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="family_father">Chicken</string>
+
+    <!-- Vocabulary word for the mother family member [CHAR LIMIT=20] -->
+    <string name="family_mother">Bird</string>
+
+    <!-- Vocabulary word for the son family member [CHAR LIMIT=20] -->
+    <string name="family_son">Dog</string>
+
+    <!-- Vocabulary word for the daughter family member [CHAR LIMIT=20] -->
+    <string name="family_daughter">Cow</string>
+
+    <!-- Vocabulary word for the older brother family member [CHAR LIMIT=20] -->
+    <string name="family_older_brother">Monkey</string>
+
+    <!-- Vocabulary word for the younger brother family member [CHAR LIMIT=20] -->
+    <string name="family_younger_brother">Fish</string>
+
+    <!-- Vocabulary word for the older sister family member [CHAR LIMIT=20] -->
+    <string name="family_older_sister">Elephant</string>
+
+    <!-- Vocabulary word for the younger sister family member [CHAR LIMIT=20] -->
+    <string name="family_younger_sister">Cat</string>
+    <!-- Vocabulary word for the grandmother family member [CHAR LIMIT=20] -->
+    <string name="family_grandmother">Rabbit</string>
+
+    <!-- Vocabulary word for the grandfather family member [CHAR LIMIT=20] -->
+    <string name="family_grandfather">Goat</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="transport_1">car</string>
+    <string name="transport_2">motorcycle</string>
+    <string name="transport_3">bicycle</string>
+    <string name="transport_4">train</string>
+    <string name="transport_5">airplane</string>
+    <string name="transport_6">sail boat</string>
+    <string name="transport_7">bus</string>
+    <string name="transport_8">pedicab</string>
+
+
+
+    <string name="category_start">Mulai</string>
+    <string name="category_judul">Indonesia</string>
+
+
+    <string name="category_judul1">Indonesia</string>
+    <string name="category_A">Tentang Indonesia</string>
+    <string name="category_B">Lagu Kebangsaan</string>
+    <string name="category_C">Bahasa Indonesia</string>
+
+
+    <string name="category_E">Indonesia Raya</string>
+    <string name="category_D"> Indonesia tanah airku\n
+Tanah tumpah darahku\n
+Disanalah aku berdiri\n
+Jadi pandu ibuku\n
+Indonesia kebangsaanku\n
+Bangsa dan Tanah Airku\n
+Marilah kita berseru\n
+Indonesia bersatu\n\n
+Hiduplah tanahku\n
+Hiduplah negriku\n
+Bangsaku Rakyatku semuanya\n
+Bangunlah jiwanya\n
+Bangunlah badannya\n
+Untuk Indonesia Raya\n\n
+Indonesia Raya\n
+Merdeka Merdeka\n
+Tanahku negriku yang kucinta\n\n
+Indonesia Raya\n
+Merdeka Merdeka\n
+Hiduplah Indonesia Raya\n\n
+Indonesia Raya\n
+Merdeka Merdeka\n
+Tanahku negriku yang kucinta\n\n
+Indonesia Raya\n
+Merdeka Merdeka\n
+Hiduplah Indonesia Raya"</string>
+
+
+
+    <string name="category_about">Indonesia</string>
+    <string name="category_lagu">Lagu Kebangsaan</string>
+    <string name="category_bahasa">Bahasa Indonesia</string>
+
+
+
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+
+    <!-- Header that goes above the title of the earthquake event [CHAR LIMIT=50] -->
+    <string name="header_event">Event</string>
+
+    <!-- Header that goes above the date of the earthquake event [CHAR LIMIT=50] -->
+    <string name="header_date">Date</string>
+
+    <!-- Header that goes above whether or not there was a tsunami alert issued
+         during the earthquake event [CHAR LIMIT=50] -->
+    <string name="header_tsunami_alert">Tsunami Alert?</string>
+
+    <!-- Text when there was no tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_no">No</string>
+
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_yes">Yes</string>
+
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_not_available">Not available</string>
+
+
+    <string name="name">Kritik dan Saran</string>
+    <string name="toppings">Apakah aplikasi ini membantu?</string>
+    <string name="whipped_cream">Ya</string>
+    <string name="chocolate">Tidak</string>
+    <string name="order">Kirim</string>
+    <string name="order_summary_email_subject">Kritik dan Saran</string>
+    <string name="order_summary_name"><xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Apakah Aplikasi Membantu? <xliff:g id="addWhippedCream" example="Ya">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Apakah Aplikasi Tidak Membantu? <xliff:g id="addChocolate" example="Tidak">%b</xliff:g></string>
+    <string name="thank_you">Trimakasih untuk kritik dan saran anda</string>
+
+
+</resources>
